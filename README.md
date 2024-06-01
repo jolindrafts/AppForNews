@@ -1,11 +1,11 @@
-News App
+# News App
 
-Project Overview
+## Project Overview
 The goal is to create a News Feed app that provides users with regularly updated news 
 from the internet related to a particular topic, person, or location. 
 This project uses the [Guardian API](http://open-platform.theguardian.com/documentation/) to fetch the news data, which is returned in JSON format.
 
-Features
+## Features
 * Navigation Drawer
 * Fragments
 * ViewPager plus TabLayout
